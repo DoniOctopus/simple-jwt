@@ -25,6 +25,7 @@ public class CustomerController {
         customerService.createNewCustomer(customer);
     }
 
+    //acces another API when use Scurity
     @GetMapping("/someResources")
     public String doSomething(){
         return "someResources Accessed";
