@@ -1,6 +1,6 @@
-package com.enigma.security;
+package com.enigma.examplejwtjava2.security;
 
-import com.enigma.service.CustomerUserDetailService;
+import com.enigma.examplejwtjava2.Service.CustomerUserDetailService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

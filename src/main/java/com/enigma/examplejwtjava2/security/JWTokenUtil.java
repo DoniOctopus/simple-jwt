@@ -1,6 +1,6 @@
-package com.enigma.security;
+package com.enigma.examplejwtjava2.security;
 
-import com.enigma.service.CustomerUserDetailService;
+import com.enigma.examplejwtjava2.Service.CustomerUserDetailService;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jws;
 import io.jsonwebtoken.Jwts;
